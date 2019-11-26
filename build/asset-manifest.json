@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "alejandroPolak-1.github.io/robofriends/static/css/main.46a49b62.chunk.css",
+    "main.js": "alejandroPolak-1.github.io/robofriends/static/js/main.a44b185c.chunk.js",
+    "main.js.map": "alejandroPolak-1.github.io/robofriends/static/js/main.a44b185c.chunk.js.map",
+    "runtime-main.js": "alejandroPolak-1.github.io/robofriends/static/js/runtime-main.3026a8c7.js",
+    "runtime-main.js.map": "alejandroPolak-1.github.io/robofriends/static/js/runtime-main.3026a8c7.js.map",
+    "static/css/2.eb45ad44.chunk.css": "alejandroPolak-1.github.io/robofriends/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.7514f082.chunk.js": "alejandroPolak-1.github.io/robofriends/static/js/2.7514f082.chunk.js",
+    "static/js/2.7514f082.chunk.js.map": "alejandroPolak-1.github.io/robofriends/static/js/2.7514f082.chunk.js.map",
+    "index.html": "alejandroPolak-1.github.io/robofriends/index.html",
+    "precache-manifest.4a5bf59f24fc902c29b57890558fb7f6.js": "alejandroPolak-1.github.io/robofriends/precache-manifest.4a5bf59f24fc902c29b57890558fb7f6.js",
+    "service-worker.js": "alejandroPolak-1.github.io/robofriends/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "alejandroPolak-1.github.io/robofriends/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.46a49b62.chunk.css.map": "alejandroPolak-1.github.io/robofriends/static/css/main.46a49b62.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3026a8c7.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.7514f082.chunk.js",
+    "static/css/main.46a49b62.chunk.css",
+    "static/js/main.a44b185c.chunk.js"
+  ]
+}
